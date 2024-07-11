@@ -1,3 +1,4 @@
 easzlab/kubeasz:3.5.2
 easzlab/kubeasz-ext-bin:1.6.6
+calico/cni:3.24.5
 nginx
