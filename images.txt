@@ -1,2 +1,3 @@
 easzlab/kubeasz:3.5.2
+easzlab/kubeasz-ext-bin:1.6.6
 nginx
