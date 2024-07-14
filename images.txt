@@ -3,4 +3,6 @@ easzlab/kubeasz-ext-bin:1.6.6
 calico/cni:v3.24.5
 calico/node:v3.24.5
 coredns/coredns:1.9.4
+kubernetesui/metrics-scraper:v1.0.8
+kubernetesui/dashboard:v2.7.0
 nginx
