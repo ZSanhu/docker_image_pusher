@@ -7,4 +7,5 @@ kubernetesui/metrics-scraper:v1.0.8
 kubernetesui/dashboard:v2.7.0
 k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 kubesphere/ks-installer:v3.3.2
+bitnami/php-fpm:8.2-debian-11
 nginx
