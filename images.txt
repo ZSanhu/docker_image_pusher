@@ -7,4 +7,5 @@ kubernetesui/metrics-scraper:v1.0.8
 kubernetesui/dashboard:v2.7.0
 kubesphere/ks-installer:v3.3.2
 bitnami/php-fpm:8.2-debian-11
+elevy/slim_java:8
 nginx
