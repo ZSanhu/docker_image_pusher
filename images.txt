@@ -11,5 +11,4 @@ elevy/slim_java:8
 yizhiyong/xtrabackup:latest
 velero/velero-plugin-for-aws:v1.5.5
 velero/velero:v1.11.0
-lorel/docker-stress-ng:latest
 nginx
