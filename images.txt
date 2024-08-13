@@ -9,4 +9,6 @@ kubesphere/ks-installer:v3.3.2
 bitnami/php-fpm:8.2-debian-11
 elevy/slim_java:8
 yizhiyong/xtrabackup:latest
+velero/velero-plugin-for-aws:v1.5.5
+velero/velero:v1.11.0
 nginx
