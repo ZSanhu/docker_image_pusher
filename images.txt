@@ -11,4 +11,5 @@ elevy/slim_java:8
 yizhiyong/xtrabackup:latest
 velero/velero-plugin-for-aws:v1.5.5
 velero/velero:v1.11.0
+logstash:8.8.2
 nginx
